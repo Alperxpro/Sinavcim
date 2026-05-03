@@ -1,0 +1,12 @@
+Sınavcım
+
+Bu bot size sınava hazırlanmanızı sağlar.
+Bu bot ile sınava kalan günlerde nasıl çalışmanız gerektğinizi size söyler.
+Sınav için ne yapman gerektiğini.
+Okul takımında nasıl başarılı olunur.
+Okuldaki diğer bilgiler.
+ 
+Plan:
+1. Veritabanı
+2. Botun Kodları
+3. İkisini bağlamak
